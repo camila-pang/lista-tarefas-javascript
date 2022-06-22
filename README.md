@@ -6,4 +6,4 @@ Aula ministrada pelo canal:  [Felipe Rocha • dicasparadevs](https://www.youtub
 
 ## Imagem do App:
 
-![image](https://user-images.githubusercontent.com/58665788/174694038-934b142f-9795-4c7d-a365-26796c53ba84.png)
+<div align="center"><img src="https://user-images.githubusercontent.com/58665788/174694038-934b142f-9795-4c7d-a365-26796c53ba84.png" /></div>
